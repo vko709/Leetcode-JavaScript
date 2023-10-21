@@ -32,3 +32,6 @@ n = -2
 	<li><code>0 &lt;= calls.length &lt;= 1000</code></li>
 	<li><code>calls[i] === &quot;call&quot;</code></li>
 </ul>
+
+<h2>Solution Explaination</h2>
+<h3><a href = "https://leetcode.com/problems/counter/editorial/?envType=study-plan-v2&envId=30-days-of-javascript"> Closure</a></h3>
